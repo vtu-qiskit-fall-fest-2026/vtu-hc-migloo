@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Migloo** · Team ID `VTU-QFF-HC-0187` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Migloo)
+[⬆ Back to Top](#migloo)
 
 </div>
