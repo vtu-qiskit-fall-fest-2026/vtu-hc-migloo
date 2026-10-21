@@ -1,0 +1,13 @@
+job_id,cpu_demand,memory_demand_gb,estimated_runtime_min,priority
+J01,6,16,18,high
+J02,8,24,22,medium
+J03,4,12,12,low
+J04,10,32,30,high
+J05,12,40,35,medium
+J06,5,16,15,low
+J07,14,48,42,high
+J08,7,20,20,medium
+J09,9,28,26,low
+J10,3,8,10,high
+J11,11,36,32,medium
+J12,6,16,17,low
