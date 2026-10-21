@@ -266,6 +266,15 @@ git diff
 git stash
 ```
 
+
+
+## Demo Video
+
+Watch our ThermoRoute Q demonstration:
+
+[Watch Demo Video on Google Drive](https://drive.google.com/file/d/12kq7o8JdIU4EFsgqfNEjsMLRJnm0vm5W/view?usp=sharing)
+
+
 ### Collaboration guidelines
 
 - Do not push directly to the official repository's `main` branch.
